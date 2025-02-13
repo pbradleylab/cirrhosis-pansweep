@@ -1,0 +1,224 @@
+Predicted_taxonomic_group,n,type
+Clostridia,17243,y
+Eubacteriaceae,13493,y
+unclassified Lachnospiraceae,5294,y
+Bacteroidaceae,4145,n
+Ruminococcaceae,3781,y
+Clostridiaceae,3428,y
+Bacteria,3004,x
+Blautia,2752,y
+Bacteroidia,2309,n
+Firmicutes,1987,x
+Lachnoclostridium,1768,y
+Butyrivibrio,1741,y
+unclassified Clostridiales,1570,y
+Dorea,1513,y
+Erysipelotrichia,928,n
+Porphyromonadaceae,693,n
+Negativicutes,582,n
+Bacilli,541,n
+Bacteroidetes,482,n
+Bacillus,255,n
+Paenibacillaceae,255,n
+Oribacterium,226,n
+Peptostreptococcaceae,216,n
+Flavobacteriia,198,n
+Gammaproteobacteria,175,n
+Oscillospiraceae,174,n
+Pseudobutyrivibrio,174,n
+Spirochaetes,155,n
+Peptococcaceae,152,n
+Lactobacillaceae,151,n
+Enterococcaceae,140,n
+Actinobacteria,131,n
+Fusobacteria,122,n
+unclassified Bacteria,117,x
+Coriobacteriia,104,n
+Myoviridae,102,n
+Lachnoanaerobaculum,99,y
+Bifidobacteriales,95,n
+Siphoviridae,95,n
+Cytophagia,94,n
+Peptoniphilaceae,80,n
+Proteobacteria,78,n
+Thermoanaerobacterales,75,n
+Flavobacterium,68,n
+Sphingobacteriia,63,n
+Rikenellaceae,50,n
+Tenericutes,46,n
+Desulfovibrionales,43,n
+Cyanobacteria,38,n
+Epsilonproteobacteria,34,n
+Clostridiales incertae sedis,33,y
+Pasteurellales,33,n
+Alphaproteobacteria,32,n
+Synergistetes,32,n
+Oscillatoriales,30,n
+Moraxellaceae,29,n
+Escherichia,28,n
+Listeriaceae,28,n
+Caudovirales,25,n
+Chryseobacterium,25,n
+Podoviridae,25,n
+Streptococcus suis,24,n
+Carnobacteriaceae,23,n
+Nostocales,23,n
+Vibrionales,22,n
+Betaproteobacteria,21,n
+Capnocytophaga,21,n
+Planococcaceae,21,n
+Bacillales incertae sedis,20,n
+Lysinibacillus,20,n
+Methanobacteria,19,n
+Archaea,18,n
+Euryarchaeota,16,n
+Staphylococcaceae,16,n
+Deltaproteobacteria,15,n
+Planctomycetes,15,n
+delta/epsilon subdivisions,15,n
+Thermotogae,14,n
+Alloprevotella,13,n
+Rhodospirillales,13,n
+Sutterellaceae,13,n
+Oceanobacillus,12,n
+Thiotrichales,12,n
+Pectobacterium,11,n
+Aeromonadales,10,n
+Desulfobacterales,10,n
+Streptococcus infantis,10,n
+Viruses,10,n
+Eukaryota,9,n
+Methanomicrobia,9,n
+Verrucomicrobiae,9,n
+"dsDNA viruses, no RNA stage",9,n
+Cyanothece,8,n
+Geobacillus,8,n
+Streptococcus mitis,8,n
+Streptococcus oralis,8,n
+Aerococcaceae,7,n
+Aquificae,7,n
+Chloroflexi,6,n
+Poales,6,n
+Shewanellaceae,6,n
+Sporolactobacillaceae,6,n
+Streptococcus anginosus group,6,n
+Alicyclobacillaceae,5,n
+Aquimarina,5,n
+Deferribacteres,5,n
+Halanaerobiales,5,n
+Halobacteria,5,n
+Leuconostocaceae,5,n
+Methanococci,5,n
+Nocardiaceae,5,n
+Propionibacteriales,5,n
+Alteromonadaceae,4,n
+Bradyrhizobiaceae,4,n
+Burkholderiaceae,4,n
+Comamonadaceae,4,n
+Dehalococcoidia,4,n
+Desulfuromonadales,4,n
+Marinilabiliaceae,4,n
+Oxalobacteraceae,4,n
+Serratia,4,n
+Stigonemataceae,4,n
+Syntrophomonadaceae,4,n
+Thermoactinomycetaceae,4,n
+Citrobacter,3,n
+Corynebacteriaceae,3,n
+Desulfurellales,3,n
+Enterobacter,3,n
+Neisseriales,3,n
+Nitrosomonadales,3,n
+Oceanospirillales,3,n
+Opisthokonta,3,n
+Opitutae,3,n
+Pantoea,3,n
+Pleurocapsales,3,n
+Pontibacillus,3,n
+Rhizobiaceae,3,n
+Roseobacter,3,n
+Salmonella,3,n
+Sphingomonadales,3,n
+Streptacidiphilus,3,n
+Streptococcus dysgalactiae group,3,n
+Thermococci,3,n
+Thermodesulfobacteria,3,n
+Verrucomicrobia,3,n
+Acidobacteria,2,n
+Actinopolysporales,2,n
+Alcaligenaceae,2,n
+Anoxybacillus,2,n
+Arenibacter,2,n
+Bdellovibrionales,2,n
+Cellulophaga,2,n
+Cryomorphaceae,2,n
+Deinococcus-Thermus,2,n
+Dickeya,2,n
+Elizabethkingia,2,n
+Erwinia,2,n
+Frankiales,2,n
+Gracilibacillus,2,n
+Hydrogenophilales,2,n
+Hyphomonadaceae,2,n
+Lactococcus,2,n
+Legionellales,2,n
+Microviridae,2,n
+Pseudonocardiales,2,n
+Pythiales,2,n
+Streptococcus pneumoniae,2,n
+Streptococcus sanguinis,2,n
+Synechococcus,2,n
+Syntrophobacterales,2,n
+Xanthomonadales,2,n
+unclassified Burkholderiales,2,n
+unclassified Flavobacteriaceae,2,n
+unclassified Gammaproteobacteria,2,n
+Arthropoda,1,n
+Bartonellaceae,1,n
+Bilateria,1,n
+Blattabacteriaceae,1,n
+Brassicales,1,n
+Cellulomonadaceae,1,n
+Cellvibrio,1,n
+Chlorobi,1,n
+Chlorophyta,1,n
+Chromatiales,1,n
+Ciliophora,1,n
+Cyanobium,1,n
+Debaryomycetaceae,1,n
+Dermacoccaceae,1,n
+Dokdonia,1,n
+Glomerellales,1,n
+Halobacillus,1,n
+Hyphomicrobiaceae,1,n
+Intrasporangiaceae,1,n
+Kitasatospora,1,n
+Metazoa,1,n
+Methylobacteriaceae,1,n
+Methylocystaceae,1,n
+Mycobacteriaceae,1,n
+Myroides,1,n
+Nonlabens,1,n
+Onygenales,1,n
+Phyllobacteriaceae,1,n
+Piroplasmida,1,n
+Polaribacter,1,n
+Providencia,1,n
+Pseudomonas aeruginosa group,1,n
+Pseudomonas fluorescens group,1,n
+Psychroflexus,1,n
+Rahnella,1,n
+Rhodocyclales,1,n
+Roseovarius,1,n
+Ruegeria,1,n
+Saccharomycetaceae,1,n
+Streptosporangiales,1,n
+Thaumarchaeota,1,n
+Vertebrata,1,n
+Virgibacillus,1,n
+Yersinia,1,n
+fabids,1,n
+unclassified Actinobacteria (class),1,n
+unclassified Alphaproteobacteria,1,n
+unclassified Euryarchaeota,1,n
+unclassified Verrucomicrobia,1,n
